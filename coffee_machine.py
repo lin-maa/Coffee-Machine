@@ -79,6 +79,6 @@ class CoffeeMachine:
         self.money = 0
 
 
-coffee = CoffeeMachine(400, 540, 120, 9, 550)
+coffee = CoffeeMachine(400, 540, 120, 10, 550)
 coffee.action()
 
